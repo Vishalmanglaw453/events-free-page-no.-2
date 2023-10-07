@@ -24,7 +24,7 @@
     border-radius: 35px;
     border: 1px solid #9CA1BE;
     background: #FFF;
-    padding: 5px;
+   align-items: center;
 }
 
 .outline {
@@ -219,7 +219,7 @@
     height: 56px;
     padding: 11px 28px;
     font-family: 'poppins', sans-serif;
-    gap: 10px;
+
     border-radius: 36px;
     background: #2C49FE;
     border: none;
@@ -269,7 +269,8 @@ svg {
     font-weight: 500;
 
 }
-.pos_ab{
+
+.pos_ab {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -402,7 +403,7 @@ input[type="checkbox"]:checked+.sm {
         height: 150px;
 
         flex-direction: column;
-gap: 20px;
+        gap: 20px;
     }
 
 }
